@@ -29,7 +29,7 @@ jobs:
       id: documents
       uses: Analog-inc/asciidoctor-action@v1.2.2
       with:
-        shellcommand: "npm run build"
+        shellcommand: "asciidoctor-pdf -r asciidoctor-pdf-cjk -a pdf-theme=default-with-fallback-font docs/resume.adoc -D dist"
     # Use the output from the documents step
     - name: Save AsciiDoc step
       uses: actions/upload-artifact@v1
