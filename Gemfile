@@ -7,4 +7,4 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 gem "asciidoctor", "2.0.20"
 gem "asciidoctor-pdf", "2.3.9"
-gem "rouge", "4.1.3"
+gem "rouge", "4.2.0"
