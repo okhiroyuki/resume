@@ -43,7 +43,7 @@ GEM
     prawn-templates (0.1.2)
       pdf-reader (~> 2.0)
       prawn (~> 2.2)
-    public_suffix (5.0.3)
+    public_suffix (5.0.4)
     rexml (3.2.6)
     rouge (4.2.0)
     ruby-rc4 (0.1.5)
