@@ -30,7 +30,7 @@
 * エンジニア採用での書類選考、面談
 
 | スキル
-| Python / AWS / RDRA
+| Python / AWS
 
 |===
 
