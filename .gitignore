@@ -175,3 +175,4 @@ build-iPhoneSimulator/
 ## asciidoc
 
 /dist
+package-lock.json
