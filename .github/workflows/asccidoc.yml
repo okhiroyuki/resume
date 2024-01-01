@@ -32,7 +32,7 @@ jobs:
           shellcommand: "asciidoctor-pdf -a scripts=cjk -a pdf-theme=default-with-fallback-font docs/resume.adoc -D dist"
       # Use the output from the documents step
       - name: Save AsciiDoc step
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: Output-document
           path: ./dist/
