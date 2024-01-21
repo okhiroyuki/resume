@@ -16,7 +16,7 @@ GEM
       prawn-table (~> 0.2.0)
       prawn-templates (~> 0.1.0)
       treetop (~> 1.6.0)
-    concurrent-ruby (1.2.2)
+    concurrent-ruby (1.2.3)
     css_parser (1.16.0)
       addressable
     hashery (2.1.2)
