@@ -27,6 +27,6 @@
     {
       "groupName": "asciidoctor-pdf",
       "packagePatterns": ["asciidoctor-pdf", "prawn-svg"]
-    },
+    }
   ]
 }
