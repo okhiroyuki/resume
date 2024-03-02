@@ -45,6 +45,7 @@ GEM
       pdf-reader (~> 2.0)
       prawn (~> 2.2)
     public_suffix (5.0.4)
+    rake (13.1.0)
     rexml (3.2.6)
     rouge (4.2.0)
     ruby-rc4 (0.1.5)
@@ -59,6 +60,7 @@ PLATFORMS
 DEPENDENCIES
   asciidoctor (= 2.0.21)
   asciidoctor-pdf (= 2.3.13)
+  rake (= 13.1.0)
   rouge (= 4.2.0)
 
 RUBY VERSION
