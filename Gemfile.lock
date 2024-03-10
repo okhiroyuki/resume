@@ -16,6 +16,7 @@ GEM
       prawn-table (~> 0.2.0)
       prawn-templates (~> 0.1.0)
       treetop (~> 1.6.0)
+    bigdecimal (3.1.6)
     concurrent-ruby (1.2.3)
     css_parser (1.16.0)
       addressable
@@ -51,7 +52,8 @@ GEM
     ruby-rc4 (0.1.5)
     treetop (1.6.12)
       polyglot (~> 0.3)
-    ttfunk (1.7.0)
+    ttfunk (1.8.0)
+      bigdecimal (~> 3.1)
 
 PLATFORMS
   ruby
