@@ -48,7 +48,7 @@ GEM
     public_suffix (5.0.4)
     rake (13.1.0)
     rexml (3.2.6)
-    rouge (4.2.0)
+    rouge (4.2.1)
     ruby-rc4 (0.1.5)
     treetop (1.6.12)
       polyglot (~> 0.3)
@@ -62,7 +62,7 @@ DEPENDENCIES
   asciidoctor (= 2.0.22)
   asciidoctor-pdf (= 2.3.15)
   rake (= 13.1.0)
-  rouge (= 4.2.0)
+  rouge (= 4.2.1)
 
 RUBY VERSION
    ruby 3.3.0p0
